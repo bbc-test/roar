@@ -27,4 +27,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "virtus"
   s.add_development_dependency "faraday"
   s.add_development_dependency "json"
+  s.add_development_dependency "rspec-mocks", '~> 3.1.2'
 end
