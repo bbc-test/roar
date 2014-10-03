@@ -1,3 +1,3 @@
 module Roar
-  VERSION = "0.12.9"
+  VERSION = "0.2.0.bbc"
 end
